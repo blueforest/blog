@@ -15,17 +15,17 @@ export default defineUserConfig({
     navbar: [
       '/',
       {
-        text: 'Article',
+        text: 'Article121',
         link: '/article/',
       },
       {
         text: 'Category',
         link: '/category/',
       },
-      {
-        text: 'Tag',
-        link: '/tag/',
-      },
+      // {
+      //   text: 'Tag',
+      //   link: '/tag/',
+      // },
       {
         text: 'Timeline',
         link: '/timeline/',
